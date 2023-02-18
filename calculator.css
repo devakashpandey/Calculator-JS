@@ -1,0 +1,110 @@
+*{
+	margin:0px;
+	padding:0px;
+	box-sizing: border-box;
+
+}
+
+h1{
+
+	letter-spacing: 2px;
+	border:2px solid blue;
+	width: 315px;
+	background-color: white;
+	font-weight: 500px;
+	
+}
+	
+
+
+.button{
+
+	
+	height:60px;
+	width:70px;
+	cursor: pointer;
+	border:none;
+	margin:2px;
+	font-size: 22px;
+	transition:0.4s;
+
+}
+
+.button:hover
+{
+
+background-color:white;
+ box-shadow: 0 0 2px black, 0 0 3px black;
+
+}
+
+
+body{
+       
+          margin-top:120px;
+}
+
+
+.textbox{
+
+	height:60px;
+	width:300px;
+	margin:5px;
+	border-radius: 13px;
+	outline:none;
+	font-size:25px;
+	padding:5px;
+
+
+}
+
+.calculator
+{
+   height:410px;
+   width:315px;
+   background-color:lightgrey;
+   border-radius: 13px;
+   border:2px solid grey;
+   box-shadow: 0 0 4px black, 0 0 8px black;
+   margin:20px;
+ 
+  
+}
+
+.active{
+
+
+	background-color: cyan;
+	
+}
+
+.active:hover{
+
+
+	background-color: cyan;
+	
+}
+
+.active4{
+
+	background-color:yellow;
+}
+
+.active4:hover{
+
+	background-color:yellow;
+}
+
+
+.active2:hover{
+
+	background-color:yellow;
+	
+	
+}
+
+.active3:hover{
+
+	background-color:red;
+}
+
